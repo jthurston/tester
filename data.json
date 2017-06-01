@@ -1,0 +1,53 @@
+[
+    {
+        "name": "Electronics",
+        "subHeader": [
+            {
+                "name": "Mobiles",
+                "view": "#mobile"
+            },
+            {
+                "name": "Tablet",
+                "view": "#tablet"
+            },
+            {
+                "name": "Television",
+                "view": "#television"
+            },
+            {
+                "name": "Headphones",
+                "view": "#headphones"
+            }
+        ]
+    },
+    {
+        "name": "Men",
+        "subHeader": [
+            {
+                "name": "Shirts",
+                "view": "#shirts"
+            },
+            {
+                "name": "T-shirts",
+                "view": "#tshirts"
+            },
+            {
+                "name": "Trousers",
+                "view": "#trousers"
+            },
+            {
+                "name": "Jeans",
+                "view": "#jeans"
+            }
+        ]
+    },
+    {
+        "name": "Women",
+        "subHeader": [
+            {
+                "name": "Shirts",
+                "view": "#shirts"
+            }
+        ]
+    }
+]

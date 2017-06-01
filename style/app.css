@@ -1,0 +1,28 @@
+body {
+  padding: 10px;
+}
+
+.searchbar {
+  background-color: lightgray;
+  height: 40px;
+}
+
+.contentarea {  
+  min-height: 100%;
+}
+
+.firstpos {
+  
+}
+
+.secondpos {
+  
+}
+
+.thirdpos {
+  
+}
+
+.no-padding{
+  padding:0px;
+}
